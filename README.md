@@ -10,6 +10,7 @@ DNA features viewer
 
 # Usage 
 python find_transposon_final.py -f plasmid.fasta -o plasmid 
+
 -f is plasmid file input
 
 -o directs output folder
