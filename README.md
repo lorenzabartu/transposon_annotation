@@ -4,6 +4,7 @@ Final project for Computational Genomics
 # Requirements
 Biopython 
 - pip install biopython
+
 DNA features viewer
 - pip install dna-features-viewer
 
@@ -12,7 +13,9 @@ python find_transposon_final.py -f plasmid.fasta -o plasmid
 
 # Optional flags:
 -i: sets cutoff for percent identity (default is 0.85)
+
 -c: blasts the genetic context around mobile genetic elements
+
 -m: constructs plasmid map
 
 # Inputs
