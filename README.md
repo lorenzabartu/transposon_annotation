@@ -10,6 +10,9 @@ DNA features viewer
 
 # Usage 
 python find_transposon_final.py -f plasmid.fasta -o plasmid 
+-f is plasmid file input
+
+-o directs output folder
 
 # Optional flags:
 -i: sets cutoff for percent identity (default is 0.85)
